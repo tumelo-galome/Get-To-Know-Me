@@ -1,8 +1,4 @@
 ### Hi there 👋 ...Get to know me a little better!
-
-<!--
-**tumelo-galome/tumelo-galome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Unsupervised Learning
@@ -15,3 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I speak 7 languages and I went to highschool in a hotel.
 
 Hope to connect with you soon!
+
+<!--
+**tumelo-galome/tumelo-galome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
